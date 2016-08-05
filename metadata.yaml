@@ -1,0 +1,32 @@
+_repo: The-Adventures-of-Johnny-Chuck_5844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: The adventures of a woodchuck and his friends Sammy Jay, Happy Jack Squirrel,
+  Billy Possum, and the other inhabitants of the forest surrounding Farmer Brown's
+  land are told.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Woodchuck -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Adventures of Johnny Chuck
+url: http://www.gutenberg.org/ebooks/5844
